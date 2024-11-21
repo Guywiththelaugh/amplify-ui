@@ -1,4 +1,5 @@
 <img src="./docs/public/amplify-logo.svg" alt="AWS Amplify Logo" style="width:2vw"> AWS Amplify
+![image](https://github.com/user-attachments/assets/20635461-895a-40d7-9c35-607e6b77454a)
 
 ---
 
